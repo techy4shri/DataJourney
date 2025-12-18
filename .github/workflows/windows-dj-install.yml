@@ -2,6 +2,9 @@ name: windows-dj-install
 
 on: workflow_dispatch
 
+permissions:
+  contents: read
+
 jobs:
   test-windows:
     runs-on: windows-latest
