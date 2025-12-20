@@ -1,4 +1,4 @@
-[project]
+[workspace]
 authors = ["sayantikabanik <workwith.sayantika@gmail.com>"]
 channels = ["conda-forge", "pip"]
 description = "Your Open-Source Data management framework"
